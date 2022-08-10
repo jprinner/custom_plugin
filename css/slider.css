@@ -1,0 +1,11 @@
+.container-wrap {
+  padding-top: 0 !important;
+  padding-bottom:  0 !important;
+}
+.wall-slider {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  left: 50%;
+  margin-left: -50vw;
+}

@@ -1,0 +1,26 @@
+.container-wrap {
+  padding-top: 0 !important;
+  padding-bottom:  0 !important;
+}
+.leaderboard-slide {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  left: 50%;
+  margin-left: -50vw;
+}
+.photowall-slide {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  left: 50%;
+  margin-left: -50vw;
+}
+@media only screen and (max-width: 999px) {
+  .leaderboard-slide {
+    margin-top: -100px;
+  }
+  .photowall-slide {
+    margin-top: -100px;
+  }
+}
